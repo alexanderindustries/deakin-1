@@ -1,4 +1,4 @@
 # deakin
 Sample deakin site
 
-http://jnoorman.github.io/deakin/
+http://alexanderindustries.github.io/deakin/
